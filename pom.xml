@@ -9,7 +9,13 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>executable-jar</module>
+        <module>001-executable-jar</module>
+        <module>002-jar-with-dependencies</module>
+        <module>003-external-library-jar</module>
+        <module>004-repositories</module>
+        <module>005-plugins</module>
+        <module>006-build-and-testing</module>
+        <module>007-profiles</module>
     </modules>
 
 
